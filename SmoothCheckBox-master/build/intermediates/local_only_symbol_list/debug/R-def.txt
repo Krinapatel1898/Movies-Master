@@ -1,0 +1,10 @@
+R_DEF: Internal format may change without notice
+local
+attr? color_checked
+attr? color_tick
+attr? color_unchecked
+attr? color_unchecked_stroke
+attr? duration
+attr? stroke_width
+string app_name
+styleable SmoothCheckBox duration stroke_width color_tick color_checked color_unchecked color_unchecked_stroke
